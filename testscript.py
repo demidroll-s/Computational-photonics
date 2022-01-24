@@ -1,4 +1,5 @@
 import numpy as np
+
 from matplotlib import pyplot as plt
 from stratified_medium import bragg, transfermatrix, spectrum, field, timeanimation
 
