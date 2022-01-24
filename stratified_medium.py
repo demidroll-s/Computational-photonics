@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import animation
-
+#Hello world!
 def bragg(n1, n2, d1, d2, N):
     '''Generates the stack parameters of a Bragg mirror
     The Bragg mirror starts at the incidence side with layer 1 and is
